@@ -1,0 +1,19 @@
+Conocer proceso de toco cirugia (elementos y practica).
+Leer protocolo de investigacion.
+Resumen -> de que trata, que beneficios tiene, por que se escoge VR, animacion, etc.
+Cronograma.
+Bibliografia de VR en apoyo a la educacion en salud.
+Referencias de libros y revistas validos en formato APA.
+
+
+ToDo
+- Bosquejo de propuesta
+- Planteamiento (en que consiste)
+- Requerimientos
+    * Unity
+    * Modelado
+    * Programacion
+
+
+Protocolo
+Propuesta -> que se espera hacer -> diferentes propuestas
